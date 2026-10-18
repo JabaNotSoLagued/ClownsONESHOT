@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="Miguel.png"><SubTexture name="mikegel idle0000" x="0" y="0" width="147" height="231" frameX="0" frameY="0" frameWidth="147" frameHeight="231" />
+<SubTexture name="mikegel idle0001" x="147" y="0" width="141" height="221" frameX="0" frameY="0" frameWidth="141" frameHeight="221" />
+<SubTexture name="mikegel idle0002" x="288" y="0" width="139" height="196" frameX="0" frameY="0" frameWidth="139" frameHeight="196" />
+<SubTexture name="mikegel up0000" x="0" y="231" width="156" height="205" frameX="0" frameY="0" frameWidth="156" frameHeight="205" />
+<SubTexture name="mikegel XDMOMENTALVRONDEDXDXDXDXDBELUGASEXPORNXDXDXDFIEOULJDKNUOEM0000" x="156" y="231" width="175" height="200" frameX="0" frameY="0" frameWidth="175" frameHeight="200" />
+<SubTexture name="mikegel XDMOMENTALVRONDEDXDXDXDXDBELUGASEXPORNXDXDXDFIEOULJDKNUOEM0001" x="331" y="231" width="171" height="186" frameX="0" frameY="0" frameWidth="171" frameHeight="186" />
+<SubTexture name="mikegel right0000" x="0" y="436" width="195" height="186" frameX="0" frameY="0" frameWidth="195" frameHeight="186" />
+<SubTexture name="mikegel XDMOMENTALVRONDEDXDXDXDXDBELUGASEXPORNXDXDXDFIEOULJDKNUOEM0002" x="195" y="436" width="130" height="221" frameX="0" frameY="0" frameWidth="130" frameHeight="221" />
+<SubTexture name="mikegel left0000" x="325" y="436" width="128" height="192" frameX="0" frameY="0" frameWidth="128" frameHeight="192" />
+<SubTexture name="mikegel down0000" x="0" y="657" width="123" height="194" frameX="0" frameY="0" frameWidth="123" frameHeight="194" />
+<SubTexture name="mikegel XDMOMENTALVRONDEDXDXDXDXDBELUGASEXPORNXDXDXDFIEOULJDKNUOEM0003" x="123" y="657" width="118" height="176" frameX="0" frameY="0" frameWidth="118" frameHeight="176" />
+<SubTexture name="mikegel JUMPSCARE0000" x="241" y="657" width="549" height="294" frameX="0" frameY="0" frameWidth="549" frameHeight="294" />
+</TextureAtlas>

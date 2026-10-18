@@ -1,0 +1,63 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [4036, 1837],
+			"anim": "idle",
+			"fps": 24,
+			"name": "mikegel idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [6455, 2304],
+			"anim": "hey",
+			"fps": 24,
+			"name": "mikegel JUMPSCARE",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [6826, 3363],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "mikegel up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [6768, 2885],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "mikegel left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [7103, 3576],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "mikegel right",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [5312, 3601],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "mikegel down",
+			"indices": []
+		}
+	],
+	"vocals_file": "",
+	"no_antialiasing": true,
+	"image": "characters/Miguel",
+	"position": [0, 0],
+	"healthicon": "no",
+	"flip_x": false,
+	"healthbar_colors": [0, 0, 0],
+	"camera_position": [-50, 315],
+	"sing_duration": 6.1,
+	"scale": 2,
+	"_editor_isPlayer": false
+}

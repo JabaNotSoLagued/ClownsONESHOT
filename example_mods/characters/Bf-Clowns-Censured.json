@@ -1,0 +1,95 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [10, -30],
+			"anim": "singDOWN",
+			"fps": 25,
+			"name": "down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [-80, -3],
+			"anim": "idle",
+			"fps": 25,
+			"name": "idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [1, -10],
+			"anim": "singLEFT",
+			"fps": 25,
+			"name": "left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [-16, -5],
+			"anim": "singRIGHT",
+			"fps": 25,
+			"name": "right",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [-31, 11],
+			"anim": "singUP",
+			"fps": 25,
+			"name": "up",
+			"indices": []
+		},
+		{
+			"offsets": [-32, -2],
+			"loop": false,
+			"fps": 25,
+			"anim": "singUPmiss",
+			"indices": [],
+			"name": "miss"
+		},
+		{
+			"loop": false,
+			"offsets": [-32, -2],
+			"anim": "singDOWNmiss",
+			"fps": 25,
+			"name": "miss",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [-32, -2],
+			"anim": "singRIGHTmiss",
+			"fps": 25,
+			"name": "miss",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [-33, -2],
+			"anim": "singLEFTmiss",
+			"fps": 25,
+			"name": "miss",
+			"indices": []
+		},
+		{
+			"offsets": [-80, -3],
+			"indices": [],
+			"fps": 25,
+			"anim": "Creepy-eye",
+			"loop": false,
+			"name": "ojo"
+		}
+	],
+	"vocals_file": "",
+	"no_antialiasing": false,
+	"image": "characters/Bf-Clowns-censured",
+	"position": [-200, 410],
+	"healthicon": "face",
+	"flip_x": true,
+	"healthbar_colors": [161, 161, 161],
+	"camera_position": [-110, -120],
+	"sing_duration": 4,
+	"scale": 0.8,
+	"_editor_isPlayer": true
+}

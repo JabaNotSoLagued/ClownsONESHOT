@@ -1,0 +1,6 @@
+Enables middle scroll.
+
+Value1 = time is takes to go into 
+middle scroll.
+
+Value2 = time it takes to fade opponent notes
