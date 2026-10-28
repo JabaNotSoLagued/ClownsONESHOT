@@ -1,83 +1,91 @@
 {
 	"animations": [
 		{
-			"loop": false,
 			"offsets": [10, -30],
+			"loop": false,
+			"fps": 25,
 			"anim": "singDOWN",
-			"fps": 25,
-			"name": "down",
-			"indices": []
+			"indices": [],
+			"name": "down"
 		},
 		{
-			"loop": false,
 			"offsets": [-80, -3],
+			"loop": false,
+			"fps": 25,
 			"anim": "idle",
-			"fps": 25,
-			"name": "idle",
-			"indices": []
+			"indices": [],
+			"name": "idle"
 		},
 		{
-			"loop": false,
 			"offsets": [1, -10],
+			"loop": false,
+			"fps": 25,
 			"anim": "singLEFT",
-			"fps": 25,
-			"name": "left",
-			"indices": []
+			"indices": [],
+			"name": "left"
 		},
 		{
-			"loop": false,
 			"offsets": [-16, -5],
-			"anim": "singRIGHT",
+			"loop": false,
 			"fps": 25,
-			"name": "right",
-			"indices": []
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "right"
+		},
+		{
+			"offsets": [-31, 11],
+			"loop": false,
+			"fps": 25,
+			"anim": "singUP",
+			"indices": [],
+			"name": "up"
 		},
 		{
 			"loop": false,
-			"offsets": [-31, 11],
-			"anim": "singUP",
+			"offsets": [-32, -2],
+			"anim": "singUPmiss",
 			"fps": 25,
-			"name": "up",
+			"name": "miss",
 			"indices": []
 		},
 		{
 			"offsets": [-32, -2],
 			"loop": false,
 			"fps": 25,
-			"anim": "singUPmiss",
+			"anim": "singDOWNmiss",
+			"indices": [],
+			"name": "miss"
+		},
+		{
+			"offsets": [-32, -2],
+			"loop": false,
+			"fps": 25,
+			"anim": "singRIGHTmiss",
+			"indices": [],
+			"name": "miss"
+		},
+		{
+			"offsets": [-33, -2],
+			"loop": false,
+			"fps": 25,
+			"anim": "singLEFTmiss",
 			"indices": [],
 			"name": "miss"
 		},
 		{
 			"loop": false,
-			"offsets": [-32, -2],
-			"anim": "singDOWNmiss",
+			"offsets": [-80, -3],
+			"anim": "Creepy-eye",
 			"fps": 25,
-			"name": "miss",
-			"indices": []
-		},
-		{
-			"loop": false,
-			"offsets": [-32, -2],
-			"anim": "singRIGHTmiss",
-			"fps": 25,
-			"name": "miss",
-			"indices": []
-		},
-		{
-			"loop": false,
-			"offsets": [-33, -2],
-			"anim": "singLEFTmiss",
-			"fps": 25,
-			"name": "miss",
+			"name": "ojo",
 			"indices": []
 		},
 		{
 			"offsets": [-80, -3],
-			"indices": [],
+			"indices": [0],
 			"fps": 25,
-			"anim": "Creepy-eye",
-			"loop": false,
+			"anim": "idle2",
+			"loop": true,
 			"name": "ojo"
 		}
 	],
@@ -88,7 +96,7 @@
 	"healthicon": "face",
 	"flip_x": true,
 	"healthbar_colors": [161, 161, 161],
-	"camera_position": [-110, -120],
+	"camera_position": [-180, 0],
 	"sing_duration": 4,
 	"scale": 0.8,
 	"_editor_isPlayer": true
