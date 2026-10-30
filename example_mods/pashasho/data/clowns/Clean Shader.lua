@@ -1,5 +1,5 @@
 function onBeatHit()
-    if curBeat == 202 then
+    if curBeat == 204 then
         runHaxeCode([[
             game.camGame.setFilters([]);
             game.camHUD.setFilters([]);

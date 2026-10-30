@@ -6,7 +6,7 @@
 			0,
 			[
 				["MiddleScroll", "0.1", "0.1"],
-				["Video Player", "inicio,camHUD,0", "false,true,false,true"],
+				["Video Player", "start,camHUD,0", "false,true,false,true"],
 				["Goodbye Flechas", "0", "0.1"]
 			]
 		],
@@ -67,7 +67,7 @@
 		[
 			93545.4545454545,
 			[
-				["Video Player", "clowns-final,camHUD,0", "false,true,false,true"]
+				["Video Player", "end,camHUD,0", "false,true,false,true"]
 			]
 		],
 		[
