@@ -5,9 +5,10 @@
 	],
 	"_editorMeta": {
 		"boyfriend": "VHS-BF",
-		"dad": "dad",
-		"gf": "gf"
+		"gf": "gf",
+		"dad": "dad"
 	},
+	"stageUI": "normal",
 	"boyfriend": [
 		892,
 		254
@@ -16,7 +17,6 @@
 		400,
 		130
 	],
-	"stageUI": "normal",
 	"defaultZoom": 1,
 	"objects": [
 		{
@@ -26,8 +26,8 @@
 			"type": "dad"
 		},
 		{
-			"x": 87,
-			"y": 93,
+			"x": 163,
+			"y": 45,
 			"scale": [
 				4,
 				3.95
@@ -48,51 +48,15 @@
 			"alpha": 1,
 			"animations": [
 				{
-					"loop": true,
 					"offsets": null,
-					"anim": "idle",
+					"loop": true,
 					"fps": 60,
-					"name": "static0",
-					"indices": []
+					"anim": "idle",
+					"indices": [],
+					"name": "static0"
 				}
 			],
 			"type": "animatedSprite"
-		},
-		{
-			"x": -463,
-			"y": -385,
-			"scale": [
-				600,
-				1500
-			],
-			"filters": 3,
-			"color": "000000",
-			"angle": 0,
-			"name": "borde1",
-			"scroll": [
-				0,
-				0
-			],
-			"alpha": 1,
-			"type": "square"
-		},
-		{
-			"x": 1580,
-			"y": 68,
-			"scale": [
-				1000,
-				1500
-			],
-			"filters": 3,
-			"color": "000000",
-			"angle": 0,
-			"name": "borde2",
-			"scroll": [
-				1,
-				1
-			],
-			"alpha": 1,
-			"type": "square"
 		},
 		{
 			"type": "boyfriend"
@@ -102,15 +66,15 @@
 		0,
 		0
 	],
-	"camera_speed": 1,
-	"directory": "",
 	"opponent": [
 		100,
 		100
 	],
+	"directory": "",
+	"camera_speed": 1,
+	"hide_girlfriend": true,
 	"camera_opponent": [
 		0,
 		0
-	],
-	"hide_girlfriend": true
+	]
 }

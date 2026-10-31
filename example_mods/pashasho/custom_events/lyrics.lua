@@ -1,12 +1,12 @@
 local firstLyricsAppear = true
-local lyricsColor = 'ffffff' -- color por defecto (blanco)
+local lyricsColor = 'ffffff' 
 
 function onCreatePost()
     makeLuaText('lyrics', '', 1250, 0, 580)
 
     setTextAlignment('lyrics', 'center')
-    setTextSize('lyrics', 48)
-    setTextFont('lyrics', 'sml_arial.ttf')
+    setTextSize('lyrics', 35)
+    setTextFont('lyrics', 'spooky.ttf')
     setTextBorder('lyrics', 5.67, '000000')
 
     setObjectCamera('lyrics', 'other')

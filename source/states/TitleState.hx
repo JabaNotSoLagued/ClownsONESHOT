@@ -84,7 +84,7 @@ class TitleState extends MusicBeatState
         tape.alpha = 0;
         add(tape);
 
-        prompt = new FlxText(0, tape.y + tape.height + 35, FlxG.width, 'PRESS SPACE TO START', 24);
+        prompt = new FlxText(0, tape.y + tape.height + 35, FlxG.width, 'PRESS SPACE/ENTER TO START', 34);
         prompt.setFormat(Paths.font('vcr.ttf'), 24, FlxColor.WHITE, CENTER, OUTLINE, FlxColor.BLACK);
         prompt.borderSize = 2;
         prompt.antialiasing = ClientPrefs.data.antialiasing;

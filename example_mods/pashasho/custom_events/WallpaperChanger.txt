@@ -1,0 +1,10 @@
+Wallpaper Changer by Santiago.
+
+How to use it?
+
+Value 1:
+[ON] - Enables.
+[OFF] - Disables.
+
+Value 2:
+You will put your image's name and extension.
